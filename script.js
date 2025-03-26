@@ -3,6 +3,7 @@ let data;
 document.addEventListener("DOMContentLoaded", async function() {
     await loadData();
     loadCategories();
+    displayProducts(); // Display all products on page load
 });
 
 async function loadData() {
@@ -53,29 +54,56 @@ function displayProducts() {
     let selectedCategory = categorySelect.value;
     let selectedSubcategory = subcategorySelect.value;
 
-    if (selectedCategory !== "" && selectedSubcategory !== "") {
+    if (selectedCategory === "" && selectedSubcategory === "") {
+        // Display all products from all categories and subcategories
+        data.katalogs.forEach(category => {
+            category.apakškategorijas.forEach(subcategory => {
+                subcategory.produkti.forEach(product => {
+                    createProductCard(product, productList);
+                });
+            });
+        });
+    } else if (selectedCategory !== "" && selectedSubcategory === "") {
+        // Display all products from the selected category
+        let category = data.katalogs[selectedCategory];
+        category.apakškategorijas.forEach(subcategory => {
+            subcategory.produkti.forEach(product => {
+                createProductCard(product, productList);
+            });
+        });
+    } else if (selectedCategory !== "" && selectedSubcategory !== "") {
+        // Display products from the selected subcategory
         let products = data.katalogs[selectedCategory].apakškategorijas[selectedSubcategory].produkti;
-
         products.forEach(product => {
-            let productCard = document.createElement("div");
-            productCard.classList.add("product");
-
-            productCard.innerHTML = `
-            <img src="${product.bilde}" alt="${product.nosaukums}">
-            <h3>${product.nosaukums}</h3>
-            <button class="show-more" onclick="toggleDetails(this)">Parādīt vairāk</button>
-            <div class="details">
-                ${product.apraksts ? `<p>${product.apraksts}</p>` : ""}
-                ${product.iepakojums ? `<p><strong>Iepakojums:</strong> ${product.iepakojums}</p>` : ""}
-                ${product.dozēšana ? `<p><strong>Dozēšana:</strong> ${product.dozēšana}</p>` : ""}
-                ${product.mazgāšanastemperatūra ? `<p><strong>Mazgāšanas temperatūra:</strong> ${product.mazgāšanastemperatūra}</p>` : ""}
-            </div>
-        `;
-
-            productList.appendChild(productCard);
+            createProductCard(product, productList);
         });
     }
 }
+
+function createProductCard(product, productList) {
+    let productCard = document.createElement("div");
+    productCard.classList.add("product");
+
+    productCard.innerHTML = `
+        <img src="${product.bilde}" alt="${product.nosaukums}">
+        <h3>${product.nosaukums}</h3>
+        <button class="show-more" onclick="toggleDetails(this)">Parādīt vairāk</button>
+        <div class="details">
+            ${product.apraksts ? `<p>${product.apraksts}</p>` : ""}
+            ${product.dozēšana ? `<p><strong>Dozēšana:</strong> ${product.dozēšana}</p>` : ""}
+            ${product.mazgāšanastemperatūra ? `<p><strong>Mazgāšanas temperatūra:</strong> ${product.mazgāšanastemperatūra}</p>` : ""}
+            ${product.iepakojums ? `<p><strong>Iepakojums:</strong> ${product.iepakojums}</p>` : ""}
+        </div>
+    `;
+
+    productList.appendChild(productCard);
+}
+document.getElementById("category").addEventListener("change", function() {
+    displayProducts();
+});
+document.getElementById("subcategory").addEventListener("change", function() {
+    displayProducts();
+});
 
 function toggleDetails(button) {
     let details = button.nextElementSibling;
