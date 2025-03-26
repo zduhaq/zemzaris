@@ -85,15 +85,16 @@ function createProductCard(product, productList) {
     productCard.classList.add("product");
 
     productCard.innerHTML = `
-        <img src="${product.bilde}" alt="${product.nosaukums}">
+        <img src="${product.bilde || 'images/missingimage.jpeg'}" alt="${product.nosaukums}">
         <h3>${product.nosaukums}</h3>
-        <button class="show-more" onclick="toggleDetails(this)">Parādīt vairāk</button>
         <div class="details">
             ${product.apraksts ? `<p>${product.apraksts}</p>` : ""}
             ${product.dozēšana ? `<p><strong>Dozēšana:</strong> ${product.dozēšana}</p>` : ""}
             ${product.mazgāšanastemperatūra ? `<p><strong>Mazgāšanas temperatūra:</strong> ${product.mazgāšanastemperatūra}</p>` : ""}
             ${product.iepakojums ? `<p><strong>Iepakojums:</strong> ${product.iepakojums}</p>` : ""}
         </div>
+        <button class="show-more" onclick="toggleDetails(this)">Parādīt vairāk</button>
+
     `;
 
     productList.appendChild(productCard);
@@ -106,7 +107,7 @@ document.getElementById("subcategory").addEventListener("change", function() {
 });
 
 function toggleDetails(button) {
-    let details = button.nextElementSibling;
+    let details = button.previousElementSibling;
     if (details.style.display === "block") {
         details.style.display = "none";
         button.textContent = "Parādīt vairāk";
