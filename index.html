@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produktu katalogs</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <h2>Produktu katalogs</h2>
+
+        <label for="category">Izvēlieties kategoriju:</label>
+        <select id="category" onchange="updateSubcategories()">
+            <option value="">-- Izvēlieties --</option>
+        </select>
+
+        <label for="subcategory">Izvēlieties apakškategoriju:</label>
+        <select id="subcategory" onchange="displayProducts()">
+            <option value="">-- Izvēlieties --</option>
+        </select>
+
+        <div id="product-list"></div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

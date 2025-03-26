@@ -1,35 +1,219 @@
 {
-    "katalogs": [
+  "katalogs": [
+    {
+      "kategorija": "Liellopiu higiēna",
+      "apakškategorijas": [
         {
-            "nosaukums": "Liellopu higiēna",
-            "apakškategorijas": [],
-            "produkti": [
-                {
-                    "bilde": "images/farmlafoam.png",
-                    "nosaukums": "FARM Lafoam",
-                    "apraksts": "Putojošs līdzeklis ideālai higiēnai pirms slaukšanas uz pienskābes bāzes...",
-                    "iepakojums": ["20 l", "200 l", "1000 l"]
-                },
-                {
-                    "bilde": "images/farmlafoam.png",
-                    "nosaukums": "Farm Lafoam Conc",
-                    "apraksts": "Koncentrēts putojošs līdzeklis ideālai higiēnai pirms slaukšanas uz pienskābes bāzes...",
-                    "iepakojums": ["5 l", "10 l", "20 l", "200 l"]
-                }
-            ]
+          "kategorija": "Tesmeņa higiēna pirms slaukšanas",
+          "produkti": [
+            {
+              "bilde": "images/farmlafoam.jpeg",
+              "nosaukums": "FARM Lafoam",
+              "apraksts": "Putojošs līdzeklis ideālai higiēnai pirms slaukšanas uz pienskābes bāzes. Gatavs lietošanai, nav nepieciešamas papildus manipulācijas. Aktīvās putas vienmērīgi pārklāj visu tesmeņa pupa virsmu un viegli notīra netīrumus. Sastāvā esošās vielas mīkstina ādu un atmiekšķē netīrumus. Izmanto ar speciālu putas veidojošu trauciņu.",
+              "iepakojums": "20 l, 200 l, 1000 l"
+            },
+            {
+              "bilde": "images/farmlafoam.jpeg",
+              "nosaukums": "Farm Lafoam Conc",
+              "apraksts": "Koncentrēts putojošs līdzeklis ideālai higiēnai pirms slaukšanas uz pienskābes bāzes. Pirms lietošanas jāatšķaida attiecībā 1:4 (1 l produkta uz 4 l ūdens). Aktīvās putas vienmērīgi pārklāj visu tesmeņa pupa virsmu un viegli notīra netīrumus. Sastāvā esošās vielas mīkstina ādu un atmiekšķē netīrumus. Iegūto šķīdumu lieto izmantojot speciālu putas veidojošu trauciņu.",
+              "iepakojums": "5 l, 10 l, 20 l, 200 l"
+            }
+          ]
         },
         {
-            "nosaukums": "Slaukšanas un piena dzesēšanas iekārtu dezinfekcijas un mazgāšanas līdzekļi",
-            "apakškategorijas": [
+          "kategorija": "Tesmeņa higiēna pēc slaukšanas",
+          "produkti": [
+            {
+              "bilde": "images/farmlacticplus.jpeg",
+              "nosaukums": "FARM Lactic Plus",
+              "apraksts": "Dezinficējas līdzeklis pēc slaukšanas ar PVP JODU. Gatavs lietošanai, biezs mitrināšanas pēc slaukšanas līdzeklis ar jodu, glikolskābei un pienskābi, tesmeņa pupu veselības un higiēnas uzlabošanai. Paātrina piena kanāla aizvēršanās procesu, veido noturīgu plēvi, mīkstina un aizsargā tesmeņa pupu ādu. Ekonomisks, jo nenopil. Izmanto ar speciālu iemērkšanas trauku.",
+              "iepakojums": "20 l, 200 l, 1000 l"
+            },
+            {
+              "bilde": "images/farmiodinespray.jpeg",
+              "nosaukums": "Farm Iodine Spray",
+              "apraksts": "Izsmidzināms dezinfekcijas šķīdums tesmeņa apstrādei pēc slaukšanas, paredzēts izmantošanai automātiskās sistēmās. Gatavs lietošanai, šķidrs jodu saturošs līdzeklis, tesmeņa pupu veselības un higiēnas uzlabošanai. Viegli lietojams dezinfekcijas līdzeklis kurš aizsargā tesmeņa pupu kanālu pēc slaukšanas. Ļoti ekonomisks izmantojot smidzinātāju vai automātiskās smidzināšanas sistēmu.",
+              "iepakojums": "20 l, 200 l, 1000 l"
+            },
+            {
+              "bilde": "images/farmclosemasti.jpeg",
+              "nosaukums": "Farm Closemasti",
+              "apraksts": "Dezinficējas līdzeklis pēc slaukšanas ar piparmētru ekstraktu. Gatavs lietošanai, biezs mitrināšanas pēc slaukšanas līdzeklis uz hlorheksidīna bāzes, tesmeņa pupu veselības un higiēnas uzlabošanai. Piparmētru ekstrakts tiek izmantots kā repelents un ādas nomierinošais ingredients, veido noturīgu plēvi pupa kanāla aizsardzībai, mīkstina un aizsargā tesmeņa pupu ādu. Ekonomisks, jo nenopil. Izmanto ar speciālu iemērkšanas trauku.",
+              "iepakojums": "20 l, 200 l, 1000 l"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kategorija": "Slaukšanas un piena dzesēšanas iekārtu dezinfekcijas un mazgāšanas līdzekļi",
+      "apakškategorijas": [
+        {
+          "kategorija": "Sārmaini dezinifekcijas un mazgāšanas līdzekļi",
+          "produkti": [
+            {
+              "bilde": "images/bssanicip.jpeg",
+              "nosaukums": "BS Sanicip",
+              "apraksts": "Sārmains dezinfekcijas un mazgāšanas līdzeklis ar aktīvo hloru. Paredzēts piena ražošanas un pārstrādes uzņēmumos mazgāšanai un dezinfekcijai. Virsmu, aprīkojuma, cauruļvadu un dzesētāju mazgāšanai un dezinfekcijai.",
+              "dozēšana": "50 - 85 ml/10 l ūdens. Piemērots jebkādas cietības ūdenī",
+              "iepakojums": "20 l, 200 l, 1000 l"
+            },
+            {
+              "bilde": "images/bsnatriohipochloritas.jpeg",
+              "nosaukums": "BS Natrio hipochloritas",
+              "apraksts": "Sārmains dezinfekcijas un mazgāšanas līdzeklis. Paredzēts piena rūpniecības un ražošanas uzņēmumos tvertņu, cauruļvadu un transportlīdzekļu mazgāšanai un dezinfekcijai.",
+              "dozēšana": "25 - 85 ml/10 l ūdens. Piemērots jebkādas cietības ūdenī",
+              "iepakojums": "20 l, 200 l, 1000 l"
+            },
+            {
+              "bilde": "images/bsunicip.jpeg",
+              "nosaukums": "BS Unicip",
+              "apraksts": "Sārmains mazgāšanas līdzeklis bez hlora. Sevišķi labi emulģē taukus un eļļu, likvidē olbaltumvielas, paredzēts darbam zemās ūdens temperatūrās. Nesatur fosfātus.",
+              "dozēšana": "30 - 75 ml/10 l ūdens. Piemērots jebkādas cietības ūdenī",
+              "iepakojums": "20 l, 200 l, 1000 l"
+            }
+          ]
+        },
+        {
+          "kategorija": "Skābie dezinifekcijas un mazgāšanas līdzekļi",
+          "produkti": [
+            {
+              "bilde": "images/bsacip.jpeg",
+              "nosaukums": "BS Acip",
+              "apraksts": "Skābs atkaļķošanas (pienakmens noņemšanas) līdzeklis. Taupa izmaksas. Paredzēts piena ražošanā, pārtikas rūpniecībā skābai mazgāšanai, cauruļvadu, tvertņu, dzesēšanas iekārtu mazgāšanai. Šķīdina neorganiskās izcelsmes aplikumu, oksidē organiskās izcelsmes netīrumus, šķīdums viegli noskalojas.",
+              "dozēšana": "50 - 100 ml/10 l ūdens. Piemērots jebkādas cietības ūdenī",
+              "iepakojums": "20 l, 200 l, 1000 l"
+            },
+            {
+              "bilde": "images/ecoclean205.jpeg",
+              "nosaukums": "Ecoclean 205",
+              "apraksts": "Efektīvs skābs atkaļķošanas (pienakmens noņemšanas) līdzeklis. Dezinficējošs skābs mazgāšanas līdzeklis cirkulācijas mazgāšanai (nesatur fosfātus un nitrītus). Unikāls skābs dezinficējošs līdzeklis, kas izmantojams viena vai divu mazgāšanas posmu sistēmās. Šķīdina, sašķeļ neorganiskās izcelsmes aplikumu un oksidē organiskās izcelsmes netīrumus. Šķīdumi viegli noskalojas un neputo. Netīrumi mazāk pielīp pie virsmām, kuras nomazgātas ar BS Ecoclean 205, var izmantot visu pret skābi izturīgu virsmu mazgāšanai (arī alumīnija).",
+              "dozēšana": "60 - 80 ml/10 l ūdens. Piemērots jebkādas cietības ūdenī",
+              "iepakojums": "10 l, 200 l, 1000 l"
+            },
+            {
+              "bilde": "images/ecoclean201.jpeg",
+              "nosaukums": "Ecoclean 201",
+              "apraksts": "Skābs mazgāšanas līdzeklis cirkulācijas mazgāšanai. Mazgāšanas līdzeklis uz fosforskābes bāzes – virsmu tīrības uzturēšanai. Efektīvi iedarbojas uz neorganiskiem netīrumiem, proteīniem un cieti turbulentas šķīduma kustības gadījumā.",
+              "dozēšana": "70 - 100ml/10 l ūdens. Piemērots jebkādas cietības ūdenī",
+              "iepakojums": "10 l, 200 l, 1000 l"
+            }
+          ]
+        }
+      ]
+    },
+    {
+        "kategorija" :"Virsmu uzturēšana un dezinfekcija",
+        "apakškategorijas": [
+            {
+             "kategorija": "Telpu, dzīvnieku nagu un eju dezinfekcija",
+             "produkti":[
                 {
-                    "nosaukums": "Sārmaini dezinfekcijas līdzekļi",
-                    "produkti": []
+                    "bilde": "",
+                    "nosaukums": "BS Quatril DUO",
+                    "apraksts": "Dezinfekcijas līdzeklis ar virucīdu, fungicīdu un baktericīdu iedarbību.Neitrāls koncentrēts dezinfekcijas līdzeklis, paredzēts ļoti plašai izmantošanai. Trīs aktīvo vielu sastāvs. Izmanto dzīvnieku turēšanas un to transportēšanas, pārtikas un lopbarības uzglabāšanas vietu dezinfekcijai. Pētījumos pārbaudīta iedarbība uz Āfrikas cūku mēra ierosinātājiem. Piemērots izmantošanai dezinfekcijas barjerās un vanniņās dzīvnieku nagu dezinfekcijai. Ilgstoša iedarbība.",
+                    "dozēšana": "0,25 - 1 % (2,5 - 10 ml/1 l ūdens)",
+                    "iepakojums": "20 l, 200 l, 1000 l."
                 },
                 {
-                    "nosaukums": "Skābās dezinfekcijas līdzekļi",
-                    "produkti": []
+                    "bilde": "images/sterilforte.jpeg",
+                    "nosaukums": "Sterilforte",
+                    "apraksts": "Koncentrēts dezinfekcijas līdzeklis uz peretiķskābes bāzes.Efektīvs pret visiem mikroorganismu tipiem. Izmanto: cirkulācijas mazgāšanas sistēmās; mērcēšanas vannās; smidzināšanai uz virsmām; kā piedeva skābiem mazgāšanas līdzekļiem. Neputo un viegli noskalojas, darbojas zemās temperatūrās. Sterilforte izmanto arī gala dezinfekcijai, piemīt spēcīgi oksidējošas, labas dezodorējošas un traipus tīrošas īpašības. Pēc lietošanas viegli sadalās nekaitīgos savienojumos.",
+                    "dozēšana": "Dozēšana: 0,07 - 2 % (0,7 - 20 ml/1 l ūdens. Piemērots jebkādas cietības ūdenī)",
+                    "iepakojums": "20 l, 200 l"
+                },
+                {
+                    "bilde": "images/bsperoksi35.jpeg",
+                    "nosaukums": "BS Peroksi 35",
+                    "apraksts": "Piedeva uz ūdeņraža peroksīda bāzes dezinfekcijas efektivitātes pastiprināšanai. Piedeva gala dezinfekcijai, nav obligāti jānoskalo (ātri sadalās saskaroties ar skābekli). Izmanto ar izsmidzināšanas un iemērkšanas metodi, pupu ķekaru dezinfekcijai starp slaukšanas reizēm.",
+                    "iepakojums": "20 l, 200 l"
                 }
+             ]
+            },
+            {
+            "kategorija":"Slaukšanas un piena dzesēšanas iekārtu un citu virsmu mazgāšana un dezinfekcija",
+            "produkti":[
+                {
+                    "bilde": "images/bsextrafoam.jpeg",
+                    "nosaukums": "BS Extrafoam",
+                    "apraksts": "Sārmains dezinfekcijas līdzeklis, kurš veido aktīvas putas. Grīdas, sienu, slaukšanas iekārtu, dzesētāju un citu iekārtu virsmu mazgāšanai.  Efektīvi likvidē olbaltumvielas un taukus, likvidē traipus un smakas. Apstādina olbaltumvielu plēvītes veidošanos, viegli noskalojas. Var izmantot kopā ar dažādām putas veidojošām iekārtām, saspiesta ūdens sistēmās. Izmanto arī manuālai mazgāšanai.",
+                    "dozēšana": "0,5 - 5 % (5 - 50 ml/1 l ūdens)",
+                    "iepakojums": "20 l, 200 l"
+                },
+                {
+                    "bilde": "images/bskristalfoam.jpeg",
+                    "nosaukums": "BS Kristalfoam",
+                    "apraksts": "Skābs putojošs mazgāšanas līdzeklis. Atkaļķo, likvidē pienakmeni no grīdām, sienām, slaukšanas iekārtām, dzesētājiem un citām iekārtu virsmām. Emulģē organiskos un neorganiskos netīrumus, olbaltumvielas un taukus, likvidē traipus. Likvidē minerālvielu nogulšņu, rūsas un organiskās izcelsmes netīrumus, viegli noskalojas. Var izmantot kopā ar dažādām putas veidojošām iekārtām, saspiesta gaisa sistēmās. Izmanto arī manuālai mazgāšanai.",
+                    "dozēšana": "Dozēšana: 0,2 - 5 % (2 - 50 ml/1 l ūdens)",
+                    "iepakojums": "Iepakojums 20 l, 200 l"
+                },
+                {
+                    "bilde": "images/bsplusfoam.jpeg",
+                    "nosaukums": "BS Plusfoam",
+                    "apraksts": "Sārmains putojošs līdzeklis vecu netīrumu likvidēšanai. Ļoti spēcīgs sārmains mazgāšanas līdzeklis. Izmanto ikdienas un periodiskai spēcīgi piesārņotu virsmu mazgāšanai. Efektīvi iekļūst un emulģē stipri piedegušus, karbonizētus un polimerizētus netīrumus. Var mazgāt ar putām, augstspiedienu, manuāli, iegremdējot. Viegli noskalojams.",
+                    "dozēšana": "1 - 5 % (10 - 50 ml/1 l ūdens)",
+                    "iepakojums": "20 l, 200 l"
+                },
+                {
+                    "bilde": "images/ecoclean104.jpeg",
+                    "nosaukums": "Ecoclean 104",
+                    "apraksts": "Sārmains putojošs līdzeklis vecu netīrumu likvidēšanai.Izmanto ikdienas un periodiskai spēcīgi piesārņotu virsmu mazgāšanai. Efektīvi iekļūst un emulģē stipri piedegušus, karbonizētus un polimerizētus netīrumus. Var mazgāt ar putām, augstspiedienu, manuāli, iegremdējot. Viegli noskalojams.  ",
+                    "dozēšana": "1 - 5 % (10 - 50 ml/1 l ūdens)",
+                    "iepakojums": "10 l, 200 l"
+                }
+                
+
             ]
-        }
-    ]
+            }
+        ]
+    },
+    {
+        "kategorija": "Personālā higiēna",
+        "apakškategorijas":[
+            {
+                "kategorija":"Profesionāla roku kopšana",
+                "produkti":[
+                    {
+                        "bilde": "images/tulpesecur.jpeg",
+                        "nosaukums": "Tulpe Secur",
+                        "apraksts": "Profesionālas dezinficējošas šķidrās ziepes. Roku dezinfekcijas un mazgāšanas līdzeklis ikdienas lietošanai.",
+                        "iepakojums": "5 l"
+                    },
+                    {
+                        "bilde": "images/izodezon.jpeg",
+                        "nosaukums": "Izodezon",
+                        "apraksts": "Profesionāls  roku un virsmu dezinfekcijas līdzeklis uz spirta bāzes (spirta saturs 72*)",
+                        "iepakojums": "5 l"
+                    },
+                    {
+                        "bilde": "images/tulpemildsoap.jpeg",
+                        "nosaukums": "Tulpe Mild Soap",
+                        "apraksts": " Profesionālās šķidrās ziepes ar glicerīnu. Maigi kopjošas un ādu barojošas šķidrās ziepes, paredzētas roku mazgāšanai pēc un pirms ikdienas darbiem.",
+                        "iepakojums": "5 l"
+                    }
+                ]
+            },
+            {
+                "kategorija": "Profesionāla apģērba kopšana",
+                "produkti": [
+                    {
+                        "bilde": "",
+                        "nosaukums": "Frech",
+                        "apraksts": "Koncentrēts mazgāšanas līdzeklis, Neitrāls. Nesatur aromātisko ogļūdeņražu, fosfora, nātrija karbonāta savienojumus, formaldehīdu, krāsvielas un hlora savienojumus. Veļas mazgāšanas līdzeklis bioloģiski noārdās. Ieteicams krāsainai, baltai veļai.",
+                        "iepakojums": "5 l"
+                    },
+                    {
+                        "bilde": "images/bsmilforte.jpeg",
+                        "nosaukums": "BS Milforte",
+                        "apraksts": "Koncentrēts balinošs mazgāšanas līdzeklis. Paredzēts vairākkārt izmantojamām tesmeņa apstrādes lupatiņu  mazgāšanai, balināšanai un ideālai tīrībai. Izmantojas automātiskajās veļas mašīnās.",
+                        "dozēšana": "100ml - 150ml ",
+                        "mazgāšanastemperatūra": "30 - 90 C",
+                        "iepakojums": "20 l"
+
+                    }
+                ]
+            }
+        ]
+    }
+  ]
 }
