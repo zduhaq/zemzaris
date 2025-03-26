@@ -1,44 +1,35 @@
 {
-    "katalogs": {
-        "Liellopu higiēna": [
-            {
-                "bilde": "images/farmlafoam.png",
-                "nosaukums": "FARM Lafoam",
-                "apraksts": "Putojošs līdzeklis ideālai higiēnai pirms slaukšanas uz pienskābes bāzes. Gatavs lietošanai, nav nepieciešamas papildus manipulācijas. Aktīvās putas vienmērīgi pārklāj visu tesmeņa pupa virsmu un viegli notīra netīrumus. Sastāvā esošās vielas mīkstina ādu un atmiekšķē netīrumus. Izmanto ar speciālu putas veidojošu trauciņu.",
-                "iepakojums": "20 l, 200 l, 1000 l"
-            },
-            {
-                "bilde": "images/farmlafoam.png",
-                "nosaukums": "Farm Lafoam Conc",
-                "apraksts": "Koncentrēts putojošs līdzeklis ideālai higiēnai pirms slaukšanas uz pienskābes bāzes.Pirms lietošanas jāatšķaida attiecībā 1:4 (1 l produkta uz 4 l ūdens). Aktīvās putas vienmērīgi pārklāj visu tesmeņa pupa virsmu un viegli notīra netīrumus. Sastāvā esošās vielas mīkstina ādu un atmiekšķē netīrumus. Iegūto šķīdumu lieto izmantojot speciālu putas veidojošu trauciņu.",
-                "iepakojums": "5 l, 10 l, 20 l, 200 l"
-            },
-            {
-                "bilde": "images/farmlacticplus.png",
-                "nosaukums": "FARM Lactic Plus",
-                "apraksts": "Dezinficējas līdzeklis pēc slaukšanas ar PVP JODU. Gatavs lietošanai, biezs mitrināšanas pēc slaukšanas līdzeklis ar jodu, glikolskābei un pienskābi, tesmeņa pupu veselības un higiēnas uzlabošanai. Paātrina piena kanāla aizvēršanās procesu, veido noturīgu plēvi, mīkstina un aizsargā tesmeņa pupu ādu. Ekonomisks, jo nenopil. Izmanto ar speciālu iemērkšanas trauku.",
-                "iepakojums": "20 l, 200 l, 1000 l"
-            },
-            {
-                "bilde": "images/farmiodinespray.png",
-                "nosaukums": "Farm Iodine Spray",
-                "apraksts": "Izsmidzināms dezinfekcijas šķīdums tesmeņa apstrādei pēc slaukšanas, paredzēts izmantošanai automātiskās sistēmās. Gatavs lietošanai, šķidrs jodu saturošs līdzeklis, tesmeņa pupu veselības un higiēnas uzlabošanai. Viegli lietojams dezinfekcijas līdzeklis kurš aizsargā tesmeņa pupu kanālu pēc slaukšanas. Ļoti ekonomisks izmantojot smidzinātāju vai automātiskās smidzināšanas sistēmu.",
-                "iepakojums": "20 l, 200 l, 1000 l"
-            },
-            {
-                "bilde":"images/farmclosemasti.png",
-                "nosaukums": "Farm Closemasti",
-                "apraksts": "Dezinficējas līdzeklis pēc slaukšanas ar piparmētru ekstraktu. Gatavs lietošanai, biezs mitrināšanas pēc slaukšanas līdzeklis uz hlorheksidīna bāzes, tesmeņa pupu veselības un higiēnas uzlabošanai. Piparmētru ekstrakts tiek izmantots kā repelents un ādas nomierinošais ingredients, veido noturīgu plēvi pupa kanāla aizsardzībai, mīkstina un aizsargā tesmeņa pupu ādu. Ekonomisks, jo nenopil. Izmanto ar speciālu iemērkšanas trauku.",
-                "iepakojums": "20 l, 200 l, 1000 l"
-            }
-        ],
-        "category2": [
-            {
-                "bilde": "images",
-                "nosaukums": "name",
-                "apraksts": "Koncentrēts putojošs līdzeklis ideālai higiēnai pirms slaukšanas uz pienskābes bāzes.Pirms lietošanas jāatšķaida attiecībā 1:4 (1 l produkta uz 4 l ūdens). Aktīvās putas vienmērīgi pārklāj visu tesmeņa pupa virsmu un viegli notīra netīrumus. Sastāvā esošās vielas mīkstina ādu un atmiekšķē netīrumus. Iegūto šķīdumu lieto izmantojot speciālu putas veidojošu trauciņu.",
-                "iepakojums": "5 l, 10 l, 20 l, 200 l."
-            }
-        ]
-    }
+    "katalogs": [
+        {
+            "nosaukums": "Liellopu higiēna",
+            "apakškategorijas": [],
+            "produkti": [
+                {
+                    "bilde": "images/farmlafoam.png",
+                    "nosaukums": "FARM Lafoam",
+                    "apraksts": "Putojošs līdzeklis ideālai higiēnai pirms slaukšanas uz pienskābes bāzes...",
+                    "iepakojums": ["20 l", "200 l", "1000 l"]
+                },
+                {
+                    "bilde": "images/farmlafoam.png",
+                    "nosaukums": "Farm Lafoam Conc",
+                    "apraksts": "Koncentrēts putojošs līdzeklis ideālai higiēnai pirms slaukšanas uz pienskābes bāzes...",
+                    "iepakojums": ["5 l", "10 l", "20 l", "200 l"]
+                }
+            ]
+        },
+        {
+            "nosaukums": "Slaukšanas un piena dzesēšanas iekārtu dezinfekcijas un mazgāšanas līdzekļi",
+            "apakškategorijas": [
+                {
+                    "nosaukums": "Sārmaini dezinfekcijas līdzekļi",
+                    "produkti": []
+                },
+                {
+                    "nosaukums": "Skābās dezinfekcijas līdzekļi",
+                    "produkti": []
+                }
+            ]
+        }
+    ]
 }
