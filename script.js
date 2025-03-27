@@ -90,6 +90,12 @@ function createProductCard(product, productList) {
         <div class="details">
             ${product.apraksts ? `<p>${product.apraksts}</p>` : ""}
             ${product.dozēšana ? `<p><strong>Dozēšana:</strong> ${product.dozēšana}</p>` : ""}
+            ${product.priekšrocības && Array.isArray(product.priekšrocības) ? `
+                <p><strong>Priekšrocības:</strong></p>
+                <ul>
+                    ${product.priekšrocības.map(item => `<li>${item}</li>`).join('')}
+                </ul>
+            ` : ""}
             ${product.mazgāšanastemperatūra ? `<p><strong>Mazgāšanas temperatūra:</strong> ${product.mazgāšanastemperatūra}</p>` : ""}
             ${product.iepakojums ? `<p><strong>Iepakojums:</strong> ${product.iepakojums}</p>` : ""}
         </div>
