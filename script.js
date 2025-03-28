@@ -96,6 +96,20 @@ function createProductCard(product, productList) {
                     ${product.priekšrocības.map(item => `<li>${item}</li>`).join('')}
                 </ul>
             ` : ""}
+
+           ${product.pielietojums && Array.isArray(product.pielietojums) ? `
+                <p><strong>Pielietojums:</strong></p>
+                <ul>
+                    ${product.pielietojums.map(item => `<li>${item}</li>`).join('')}
+                </ul>
+            ` : ""}
+           ${product.sastāvs && Array.isArray(product.sastāvs) ? `
+                <p><strong>Sastāvs:</strong></p>
+                <ul>
+                    ${product.sastāvs.map(item => `<li>${item}</li>`).join('')}
+                </ul>
+            ` : ""}
+
             ${product.mazgāšanastemperatūra ? `<p><strong>Mazgāšanas temperatūra:</strong> ${product.mazgāšanastemperatūra}</p>` : ""}
             ${product.iepakojums ? `<p><strong>Iepakojums:</strong> ${product.iepakojums}</p>` : ""}
         </div>

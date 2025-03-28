@@ -65,6 +65,57 @@
               "nosaukums":"COMPOMOL DC Film art. Foam 20 kg",
               "apraksts": "Ir iebiezināts plēvi veidojošs līdzeklis uz pienskābes bāzes. Līdzeklim piemīt baktericīdas un mīkstinošas īpašības. Tiek izmantots mastīta profilaksei un piena kvalitātes uzlabošanai. Līdzeklis paredzēts pēc slaukšanas dezinfekcijai un ir gatavs lietošanai. Nav nepieciešams veikt papildu manipulācijas un atšķaidīt. Līdzekļa uzklāšana tiek veikta ar iemērkšanas metodi, izmantojot speciālo putu glāzīti/trauku.",
               "priekšrocības": ["Nodrošina aizsardzību pret patogēniem mikroorganismiem, samazina piena dziedzeru infekcijas slimību risku, ko izraisa Staph. aureus, Strep. Agalactiae, coliform un tml. baktērijas novērš patogēno baktēriju iekļūšanu pupa kanālā."," Dziedina brūces un mīkstina ādu: organisko skābju komplekss aktīvo vielu sinerģiskā maisījuma sastāvā efektīvi un delikāti normalizē aktīvos vielmaiņas procesus ādā, stabilizē lokālo vielmaiņu un nodrošina pupu ādas atveseļošanos.","Putojoša formula ļauj samazināt līdzekļa patēriņu salīdzinājumā ar tradicionāli lietojamām sistēmām. Līdzekļa patēriņš sastāda 1-2g viena dzīvnieka apstrādes reizē.","Ieteicams lietot ziemas periodā, neizraisa aukstuma stresu govīm pateicoties putu zemai siltuma vadītspējai."]
+            },
+            {
+              "bilde":"images/compomoldcgreen.jpeg",
+              "nosaukums": "COMPOMOL DC Green 20 kg ",
+              "apraksts": "Ir iebiezināts plēvi veidojošs līdzeklis uz pienskābes bāzes. Tiek izmantots mastīta profilaksei un piena kvalitātes uzlabošanai. Līdzeklis paredzēts pēc slaukšanas dezinfekcijai un ir gatavs lietošanai. Nav nepieciešams veikt papildu manipulācijas un atšķaidīt. Līdzekļa uzklāšana tiek veikta ar iemērkšanas metodi, izmantojot speciālo glāzīti/trauku.",
+              "priekšrocības":["Nodrošina aizsardzību pret patogēniem mikroorganismiem, samazina piena dziedzeru infekcijas slimību risku","Veido aktīvu aizsargplēvi","Piemīt patīkama svaigi nopļauta āboliņa aromāts","Dziedina brūces un mīkstina ādu","Nepil un neizšļakstās"]
+            },
+            {
+              "bilde": "images/actradeprorobo.jpeg",
+              "nosaukums": "ACTRADE PRO ROBO I 22 kg",
+              "apraksts": "Šķidrs, pēcslaukšanas dezinfekcijas līdzeklis uz joda bāzes.",
+              "priekšrocības": ["Nesausina pupu ādu","Efektīvi mīkstina un dziedē pupu ādu","Novērš patogēno baktēriju iekļūšanu pupa kanālā"],
+              "pielietojums": ["Piemērots slaukšanas robotiem.","Līdzekli var šķaidīt līdz attiecībai 1:3 ar ūdeni.","Patēriņš izmantojot iemērkšanas metodi ir (5ml uz vienu dzīvnieku).","Patēriņš izmantojot izsmidzināšanas metodi (7 - 8 ml uz vienu dzīvnieku).","Rūpīgi notīriet pupus pirms nākamās slaukšanas reizes."],
+              "sastāvs": ["Aktīvā viela, jods 5500ppm.","Augsti efektīvi emolenti.","Glicerīns","Lanolīns"]
+            },
+            {
+              "bilde": "images/actradeprotin.jpeg",
+              "nosaukums": "ACTRADE PRO TI-N 22 kg",
+              "apraksts": "Iebiezināts plēvi veidojoš pēcslaukšanas dezinfekcijas līdzeklis uz joda bāzes. Tiek izmantots piena kvalitātes uzlabošanai, gatavs lietošanai. Tesmeņa pupu āda ir obligāti jāapstrādā pēc slaukšanas, jo pupa kanāls paliek atvērts 30 minūtes pēc slaukšanas, kas palielina baktēriju iekļūšanas risku.",
+              "priekšrocības": ["Jods kompleksa ar PVP vaidā nodrošina aizsardzību pret patogēniem mikroorganismiem pēc slaukšanas, samazina mastīta risku","Emolentu saturs ≈ 15%; maigi kopj tesmeņa pupu ādu, baro un dziedina to","Speciāls emolentu savienojums veido mīkstu, zīdainu plēvi, kas neizraisa kairinājumu","Nenopil–pateicot speciālai līdzekļa formulai.","Veido plānu plēvi – kas kalpo kā efektīva barjera, lieliski aizsargā pupu kanālu tūlīt pēc slaukšanas","Koša, piesātināta plēves krāsa – vienmēr atgādina par to, ka apstrāde tika veikta, jo tā pamanāma pat no liela attāluma"],
+              "pielietojums": ["Līdzeklis gatavs lietošanai, nav nepieciešams veikt papildu manipulācijas un atšķaidīt.","Līdzekļa patēriņš sastāda 4-5 g/dzīv. vienā slaukšanas reizē.","Līdzekļa uzklāšana tiek veikta ar iemērkšanas metodi, izmantojot speciālo glāzīti/trauku.","Rūpīgi notīriet pupus pirms nākamās slaukšanas reizes."],
+              "sastāvs": ["Aktīvā viela, jods 2500ppm.","Augsti efektīvi emolenti.","Glicerīns","Lanolīns","Iebiezinātāji"]
+            },
+            {
+              "bilde": "images/veloucidsprayd.jpeg",
+              "nosaukums": "VELOUCID SPRAY D",
+              "apraksts": "Dezinfekcijas līdzeklis govs pupu higiēnai pēc slaukšanas lietošanai ar iemērkšanas vai apsmidzināšanas metodi. Veloucid Spray D veido aktīvu, elpojošu emulsijas plēvi, kura aizsargā no saules, sala kā arī citiem ārējās iedarbības faktoriem",
+              "priekšrocības": ["Sastāvs ir bagātināts ar eļļām un kosmētiskiem līdzekļiem. Regulāra Veloucid spray D lietošana pēc slaukšanas ļauj pupu ādu uzturēt lieliskā stāvoklī.","PVP jods nodrošina labas dezinficējošas īpašības.","100 g šķidruma satur: 0,11 g polivinilpirolidonjodu.","Lietošanai gatavs produkts."]
+            },
+            {
+              "bilde": "images/veloucidd.jpeg",
+              "nosaukums": "VELOUCID D",
+              "apraksts": "Dezinfekcijas līdzeklis govs pupu higiēnai pēc slaukšanas. Veloucid D veido aktīvu, elpojošu emulsijas plēvi, kura aizsargā no saules, sala un citiem ārējās iedarbības faktoriem.",
+              "priekšrocības": ["Sastāvs ir bagātināts ar eļļām un kosmētiskiem līdzekļiem.","Regulāra Veloucid D lietošana pēc slaukšanas ļauj pupu ādu uzturēt lieliskā stāvoklī.","PVP jods nodrošina labas dezinficējošas īpašības.","100 g šķidruma satur: 0,11 g polivinilpirolidonjodu.","Lietošanai gatavs produkts.","Ļoti ekonomisks – nenopil."]
+            }
+          ]
+        },
+        {
+          "kategorija": "Aizsargberjeri",
+          "produkti": [
+            {
+              "bilde":"images/ioshieldd.jpeg",
+              "nosaukums": "IO-SHIELD D",
+              "apraksts": "Aizsargbarjeru veidojošs līdzeklis govs pupu aizsardzībai un ādas kopšanai, piena ražošanas saimniecībās, kur ir sarežģīti higiēnas apstākļi. Io-shield D ir komplekss uz joda bāzes, kas veido ļoti noturīgu plēves kārtiņu kura paliks uz pupu līdz nākošai slaukšanas reizei.",
+              "priekšrocības": ["Labi pamanāma un elpojoša aizsargbarjera.","Stundām ilgstoša aizsardzība.","Plaša spektra dezinficējošas īpašības, ko nodrošina jods PVP veidā.","100 g šķidruma satur: 0,14 g polivinilpirolidonjodu.","Ādu kopjošas sastāvdaļas – gludai un mīkstai govs pupu ādai.","Lietošanai gatavs produkts."]
+            },
+            {
+              "bilde": "",
+              "nosaukums": "PHYTOSHIELD D",
+              "apraksts": "Aizsargbarjeru veidojošs līdzeklis govs pupu aizsardzībai un ādas kopšanai piena ražošanas saimniecībās, kur ir sarežģīti higiēnas apstākļi. Phytoshield D ir pielāgots bioloģiskai ražošanai un 'zaļi orientētai' lauksaimniecībai. Polimerizē- jošs līdzeklis, kura pamatā ir augu ekstrakti.",
+              "priekšrocības": ["Veido aizsargbarjeru uz pupiem, nodrošinot izturīgu un elastīgu aizsardzību starp slaukšanas reizēm.","Labas dezinficējošas īpašības, ko nodrošina pienskābe. 100 g šķidruma satur: 0,59 g L-(+)- pienskābes papildu ieguvumi, ko sniedz augu ekstrakti:","Mentha Piperita: Piparmētru ekstraktiem ir fungicīdas un antiseptiskas īpašības; tonizējošas, stimulējošas un uzmundrinošas īpašības kopā ar nomierinošu iedarbību. Piparmētra, uzklāta uz ādas, mazinās sāpes.","Matricaria Chamomilla: Matricaria Chamomilla piemīt pretiekaisuma, baktericīdas un fungicīdas īpašības. Tā mazina arī sāpes un viegli nomierina. Uzskata, ka Matricaria Chamomilla mazina iekaisumu un tai piemīt anti-alerģiskas īpašības.","Hamamelis Virginiana: Hamamelis noņem atmirušās ādas šūnas; attīra, atjauno šūnas, regulē apmaiņu ādā. Tās sastāvā esošo miecvielu dēļ, tā ir lielisks vazokonstriktors. Šiem tanīniem piemīt arī savelkošas īpašības."]
             }
           ]
         }
