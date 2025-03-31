@@ -13,12 +13,6 @@
               "iepakojums": "20 l, 200 l, 1000 l"
             },
             {
-              "bilde": "",
-              "nosaukums": "Farm Lafoam Conc",
-              "apraksts": "Koncentrēts putojošs līdzeklis ideālai higiēnai pirms slaukšanas uz pienskābes bāzes. Pirms lietošanas jāatšķaida attiecībā 1:4 (1 l produkta uz 4 l ūdens). Aktīvās putas vienmērīgi pārklāj visu tesmeņa pupa virsmu un viegli notīra netīrumus. Sastāvā esošās vielas mīkstina ādu un atmiekšķē netīrumus. Iegūto šķīdumu lieto izmantojot speciālu putas veidojošu trauciņu.",
-              "iepakojums": "5 l, 10 l, 20 l, 200 l"
-            },
-            {
               "bilde": "images/compomoldceconom.jpeg", 
               "nosaukums": "COMPOMOL DC + Econom 20 kg",
               "apraksts": "Ir kopjošs, mazgājošs šķidrums uz pienskābes bāzes, kas nodrošina maigu govs tesmeņa un pupu ādas kopšanu pirms slaukšanas. COMPOMOL DC + Econom ir paredzēts govs tesmeņa apstrādei pirms slaukšanas. 10 litros silta ūdens (35 0C) izšķīdināt 50 ml COMPOMOL DC+Econom (0,5% ūdens šķīdums). Pirms slaukšanas tesmeni noslaucīt ar salveti, samitrinātu ar darbašķīdumu. Viens tesmenis jāapstrādā ar vienu salveti.",
@@ -29,6 +23,17 @@
               "nosaukums": "COMPOMOL DC Blue Foam 20 kg",
               "apraksts": "Ir kopjošs, mazgājošs šķidrums ar augsti putojošu virsmaktīvo vielu maisījumu un emolentiem uz hlorheksidīna bāzes, kas nodrošina maigu govs tesmeņa un pupu ādas kopšanu pirms slaukšanas. COMPOMOL DC Blue Foam ir paredzēts govs tesmeņa apstrādei pirms slaukšanas. Uzklāšanai izmanto putas veidojošo glāzīti-trauku. Katru pupu iemērc glāzītē-traukā ar putām. Pēc apstrādes pupus noslauka ar sausu salveti.",
               "priekšrocības": ["Hlorheksidīns nodrošina aizsardzību pret patogēniem mikroorganismiem, samazina mastīta izveidošanās risku","Lieliska attīroša iedarbība","Efektīvi dezinficē un mīkstina pupu ādu","Neizraisa kairinājumu","pH neitrāls","Stabilas putas"]
+            },
+            {
+              "bilde": "images/ioklarmulti.jpeg",
+              "nosaukums": "IOKLAR® MULTI",
+              "apraksts": "Divejādas dezinfekcijas līdzeklis govs pupu higiēnai pirms un pēc slaukšanas,lietošanai ar iemērkšanas vai apsmidzināšanas metodi. Ioklar® Multi nav vienkārš dezinfekcijas līdzeklis, bet komplekss uz joda bāzes, kas bagātināts ar ārējo epidermas slāņu aizsargājošām un mitrinošām vielām.",
+              "priekšrocības": ["Joda augstā dezinficējošā iedarbība.","Labi saredzams uz govs pupiem.","Kosmētiskā iedarbība.","100 g šķidruma satur: 0,25 g jodu."]
+            },
+            {
+              "bilde": "images/calgonitersoft.jpeg",
+              "nosaukums": "Calgonit ER soft",
+              "apraksts": ""
             }
 
           ]
@@ -55,16 +60,16 @@
               "iepakojums": "20 l, 200 l, 1000 l"
             },
             {
+              "bilde":"images/farmclosemasti.jpeg",
+              "nosaukums": "Farm Closemasti Spray",
+              "apraksts": "Izsmidzināms dezinfekcijas šķīdums tesmeņa apstrādei pēc slaukšanas, paredzēts izmantošanai automātiskās sistēmās. Gatavs lietošanai, šķidrs hlorheksidīna bāzes saturošs līdzeklis, tesmeņa pupu veselības un higiēnas uzlabošanai. Viegli lietojams dezinfekcijas līdzeklis kurš aizsargā tesmeņa pupu kanālu pēc slaukšanas. Ļoti ekonomisks izmantojot smidzinātāju vai automātiskās smidzināšanas sistēmu.",
+              "iepakojums": "20 l, 200 l, 1000 l"
+            },
+            {
               "bilde": "images/compomoldcbluegel.jpeg",
               "nosaukums": "COMPOMOL DC Blue Gel 20 kg",
               "apraksts": "Ir iebiezināts, plēvi veidojošs līdzeklis uz hlorheksidīna bāzes. Tiek izmantots mastīta profilaksei un piena kvalitātes uzlabošanai. Līdzeklis paredzēts pēc slaukšanas dezinfekcijai un ir gatavs lietošanai. Nav nepieciešams veikt papildu manipulācijas un atšķaidīt. Līdzekļa patēriņš sastāda 4-5 g/dzīv. vienā slaukšanas reizē un ir atkarīgs no pupu lieluma un līdzekļa uzklāšanas ātruma.",
               "priekšrocības": ["Hlorheksidīns nodrošina aizsardzību pret patogēniem mikroorganismiem pēc slaukšanas, samazina mastīta izveidošanās risku","Ekonomiska formula ar augstu efektivitāti","Veido aktīvu aizsargplēvi","Piemīt patīkams mentola aromāts","Satur repelentus","Novērš patogēno baktēriju iekļūšanu pupa kanālā","Efektīvi dezinficē un mīkstina tesmeņa ādu","Nepil un neizšļakstās"]
-            },
-            {
-              "bilde": "images/compomoldcfilm.jpeg",
-              "nosaukums":"COMPOMOL DC Film art. Foam 20 kg",
-              "apraksts": "Ir iebiezināts plēvi veidojošs līdzeklis uz pienskābes bāzes. Līdzeklim piemīt baktericīdas un mīkstinošas īpašības. Tiek izmantots mastīta profilaksei un piena kvalitātes uzlabošanai. Līdzeklis paredzēts pēc slaukšanas dezinfekcijai un ir gatavs lietošanai. Nav nepieciešams veikt papildu manipulācijas un atšķaidīt. Līdzekļa uzklāšana tiek veikta ar iemērkšanas metodi, izmantojot speciālo putu glāzīti/trauku.",
-              "priekšrocības": ["Nodrošina aizsardzību pret patogēniem mikroorganismiem, samazina piena dziedzeru infekcijas slimību risku, ko izraisa Staph. aureus, Strep. Agalactiae, coliform un tml. baktērijas novērš patogēno baktēriju iekļūšanu pupa kanālā."," Dziedina brūces un mīkstina ādu: organisko skābju komplekss aktīvo vielu sinerģiskā maisījuma sastāvā efektīvi un delikāti normalizē aktīvos vielmaiņas procesus ādā, stabilizē lokālo vielmaiņu un nodrošina pupu ādas atveseļošanos.","Putojoša formula ļauj samazināt līdzekļa patēriņu salīdzinājumā ar tradicionāli lietojamām sistēmām. Līdzekļa patēriņš sastāda 1-2g viena dzīvnieka apstrādes reizē.","Ieteicams lietot ziemas periodā, neizraisa aukstuma stresu govīm pateicoties putu zemai siltuma vadītspējai."]
             },
             {
               "bilde":"images/compomoldcgreen.jpeg",
@@ -73,50 +78,17 @@
               "priekšrocības":["Nodrošina aizsardzību pret patogēniem mikroorganismiem, samazina piena dziedzeru infekcijas slimību risku","Veido aktīvu aizsargplēvi","Piemīt patīkama svaigi nopļauta āboliņa aromāts","Dziedina brūces un mīkstina ādu","Nepil un neizšļakstās"]
             },
             {
-              "bilde": "images/actradeprorobo.jpeg",
-              "nosaukums": "ACTRADE PRO ROBO I 22 kg",
-              "apraksts": "Šķidrs, pēcslaukšanas dezinfekcijas līdzeklis uz joda bāzes.",
-              "priekšrocības": ["Nesausina pupu ādu","Efektīvi mīkstina un dziedē pupu ādu","Novērš patogēno baktēriju iekļūšanu pupa kanālā"],
-              "pielietojums": ["Piemērots slaukšanas robotiem.","Līdzekli var šķaidīt līdz attiecībai 1:3 ar ūdeni.","Patēriņš izmantojot iemērkšanas metodi ir (5ml uz vienu dzīvnieku).","Patēriņš izmantojot izsmidzināšanas metodi (7 - 8 ml uz vienu dzīvnieku).","Rūpīgi notīriet pupus pirms nākamās slaukšanas reizes."],
-              "sastāvs": ["Aktīvā viela, jods 5500ppm.","Augsti efektīvi emolenti.","Glicerīns","Lanolīns"]
+              "bilde": "images/calgodip3000.jpeg",
+              "nosaukums": "Calgodip 3000",
+              "apraksts": ""
+              
             },
             {
-              "bilde": "images/actradeprotin.jpeg",
-              "nosaukums": "ACTRADE PRO TI-N 22 kg",
-              "apraksts": "Iebiezināts plēvi veidojoš pēcslaukšanas dezinfekcijas līdzeklis uz joda bāzes. Tiek izmantots piena kvalitātes uzlabošanai, gatavs lietošanai. Tesmeņa pupu āda ir obligāti jāapstrādā pēc slaukšanas, jo pupa kanāls paliek atvērts 30 minūtes pēc slaukšanas, kas palielina baktēriju iekļūšanas risku.",
-              "priekšrocības": ["Jods kompleksa ar PVP vaidā nodrošina aizsardzību pret patogēniem mikroorganismiem pēc slaukšanas, samazina mastīta risku","Emolentu saturs ≈ 15%; maigi kopj tesmeņa pupu ādu, baro un dziedina to","Speciāls emolentu savienojums veido mīkstu, zīdainu plēvi, kas neizraisa kairinājumu","Nenopil–pateicot speciālai līdzekļa formulai.","Veido plānu plēvi – kas kalpo kā efektīva barjera, lieliski aizsargā pupu kanālu tūlīt pēc slaukšanas","Koša, piesātināta plēves krāsa – vienmēr atgādina par to, ka apstrāde tika veikta, jo tā pamanāma pat no liela attāluma"],
-              "pielietojums": ["Līdzeklis gatavs lietošanai, nav nepieciešams veikt papildu manipulācijas un atšķaidīt.","Līdzekļa patēriņš sastāda 4-5 g/dzīv. vienā slaukšanas reizē.","Līdzekļa uzklāšana tiek veikta ar iemērkšanas metodi, izmantojot speciālo glāzīti/trauku.","Rūpīgi notīriet pupus pirms nākamās slaukšanas reizes."],
-              "sastāvs": ["Aktīvā viela, jods 2500ppm.","Augsti efektīvi emolenti.","Glicerīns","Lanolīns","Iebiezinātāji"]
-            },
-            {
-              "bilde": "images/veloucidsprayd.jpeg",
-              "nosaukums": "VELOUCID SPRAY D",
-              "apraksts": "Dezinfekcijas līdzeklis govs pupu higiēnai pēc slaukšanas lietošanai ar iemērkšanas vai apsmidzināšanas metodi. Veloucid Spray D veido aktīvu, elpojošu emulsijas plēvi, kura aizsargā no saules, sala kā arī citiem ārējās iedarbības faktoriem",
-              "priekšrocības": ["Sastāvs ir bagātināts ar eļļām un kosmētiskiem līdzekļiem. Regulāra Veloucid spray D lietošana pēc slaukšanas ļauj pupu ādu uzturēt lieliskā stāvoklī.","PVP jods nodrošina labas dezinficējošas īpašības.","100 g šķidruma satur: 0,11 g polivinilpirolidonjodu.","Lietošanai gatavs produkts."]
-            },
-            {
-              "bilde": "images/veloucidd.jpeg",
-              "nosaukums": "VELOUCID D",
-              "apraksts": "Dezinfekcijas līdzeklis govs pupu higiēnai pēc slaukšanas. Veloucid D veido aktīvu, elpojošu emulsijas plēvi, kura aizsargā no saules, sala un citiem ārējās iedarbības faktoriem.",
-              "priekšrocības": ["Sastāvs ir bagātināts ar eļļām un kosmētiskiem līdzekļiem.","Regulāra Veloucid D lietošana pēc slaukšanas ļauj pupu ādu uzturēt lieliskā stāvoklī.","PVP jods nodrošina labas dezinficējošas īpašības.","100 g šķidruma satur: 0,11 g polivinilpirolidonjodu.","Lietošanai gatavs produkts.","Ļoti ekonomisks – nenopil."]
+              "bilde": "images/calgodipgreen.jpg",
+              "nosaukums": "Calgodip Green",
+              "apraksts": ""
             }
-          ]
-        },
-        {
-          "kategorija": "Aizsargberjeri",
-          "produkti": [
-            {
-              "bilde":"images/ioshieldd.jpeg",
-              "nosaukums": "IO-SHIELD D",
-              "apraksts": "Aizsargbarjeru veidojošs līdzeklis govs pupu aizsardzībai un ādas kopšanai, piena ražošanas saimniecībās, kur ir sarežģīti higiēnas apstākļi. Io-shield D ir komplekss uz joda bāzes, kas veido ļoti noturīgu plēves kārtiņu kura paliks uz pupu līdz nākošai slaukšanas reizei.",
-              "priekšrocības": ["Labi pamanāma un elpojoša aizsargbarjera.","Stundām ilgstoša aizsardzība.","Plaša spektra dezinficējošas īpašības, ko nodrošina jods PVP veidā.","100 g šķidruma satur: 0,14 g polivinilpirolidonjodu.","Ādu kopjošas sastāvdaļas – gludai un mīkstai govs pupu ādai.","Lietošanai gatavs produkts."]
-            },
-            {
-              "bilde": "",
-              "nosaukums": "PHYTOSHIELD D",
-              "apraksts": "Aizsargbarjeru veidojošs līdzeklis govs pupu aizsardzībai un ādas kopšanai piena ražošanas saimniecībās, kur ir sarežģīti higiēnas apstākļi. Phytoshield D ir pielāgots bioloģiskai ražošanai un 'zaļi orientētai' lauksaimniecībai. Polimerizē- jošs līdzeklis, kura pamatā ir augu ekstrakti.",
-              "priekšrocības": ["Veido aizsargbarjeru uz pupiem, nodrošinot izturīgu un elastīgu aizsardzību starp slaukšanas reizēm.","Labas dezinficējošas īpašības, ko nodrošina pienskābe. 100 g šķidruma satur: 0,59 g L-(+)- pienskābes papildu ieguvumi, ko sniedz augu ekstrakti:","Mentha Piperita: Piparmētru ekstraktiem ir fungicīdas un antiseptiskas īpašības; tonizējošas, stimulējošas un uzmundrinošas īpašības kopā ar nomierinošu iedarbību. Piparmētra, uzklāta uz ādas, mazinās sāpes.","Matricaria Chamomilla: Matricaria Chamomilla piemīt pretiekaisuma, baktericīdas un fungicīdas īpašības. Tā mazina arī sāpes un viegli nomierina. Uzskata, ka Matricaria Chamomilla mazina iekaisumu un tai piemīt anti-alerģiskas īpašības.","Hamamelis Virginiana: Hamamelis noņem atmirušās ādas šūnas; attīra, atjauno šūnas, regulē apmaiņu ādā. Tās sastāvā esošo miecvielu dēļ, tā ir lielisks vazokonstriktors. Šiem tanīniem piemīt arī savelkošas īpašības."]
-            }
+
           ]
         }
       ]
@@ -179,7 +151,7 @@
       ]
     },
     {
-        "kategorija" :"Virsmu uzturēšana un dezinfekcija",
+        "kategorija" :"Virsmu mazgāšana un dezinfekcija",
         "apakškategorijas": [
             {
              "kategorija": "Telpu, dzīvnieku nagu un eju dezinfekcija",
@@ -190,7 +162,12 @@
                     "apraksts": "Dezinfekcijas līdzeklis ar virucīdu, fungicīdu un baktericīdu iedarbību.Neitrāls koncentrēts dezinfekcijas līdzeklis, paredzēts ļoti plašai izmantošanai. Trīs aktīvo vielu sastāvs. Izmanto dzīvnieku turēšanas un to transportēšanas, pārtikas un lopbarības uzglabāšanas vietu dezinfekcijai. Pētījumos pārbaudīta iedarbība uz Āfrikas cūku mēra ierosinātājiem. Piemērots izmantošanai dezinfekcijas barjerās un vanniņās dzīvnieku nagu dezinfekcijai. Ilgstoša iedarbība.",
                     "dozēšana": "0,25 - 1 % (2,5 - 10 ml/1 l ūdens)",
                     "iepakojums": "20 l, 200 l, 1000 l."
-                },
+                }
+             ]
+            },
+            {
+              "kategorija": "Starpdezinfekcijas līdzekļi",
+              "produkti": [
                 {
                     "bilde": "images/sterilforte.jpeg",
                     "nosaukums": "Sterilforte",
@@ -204,7 +181,7 @@
                     "apraksts": "Piedeva uz ūdeņraža peroksīda bāzes dezinfekcijas efektivitātes pastiprināšanai. Piedeva gala dezinfekcijai, nav obligāti jānoskalo (ātri sadalās saskaroties ar skābekli). Izmanto ar izsmidzināšanas un iemērkšanas metodi, pupu ķekaru dezinfekcijai starp slaukšanas reizēm.",
                     "iepakojums": "20 l, 200 l"
                 }
-             ]
+              ]
             },
             {
             "kategorija":"Slaukšanas un piena dzesēšanas iekārtu un citu virsmu mazgāšana un dezinfekcija",
@@ -290,6 +267,13 @@
                 ]
             }
         ]
+    },
+    {
+      "kategorija": "Dzīvnieku identifikācija",
+      "apakškategorijas":[],
+      "produkti":[
+
+      ]
     }
   ]
 }

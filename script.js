@@ -57,26 +57,43 @@ function displayProducts() {
     if (selectedCategory === "" && selectedSubcategory === "") {
         // Display all products from all categories and subcategories
         data.katalogs.forEach(category => {
+            if (category.apakškategorijas && Array.isArray(category.apakškategorijas)) {
+                category.apakškategorijas.forEach(subcategory => {
+                    subcategory.produkti.forEach(product => {
+                        createProductCard(product, productList);
+                    });
+                });
+            } else if (category.produkti && Array.isArray(category.produkti)) {
+                // If the category has no subcategories but has products
+                category.produkti.forEach(product => {
+                    createProductCard(product, productList);
+                });
+            }
+        });
+    } else if (selectedCategory !== "" && selectedSubcategory === "") {
+        // Display all products from the selected category
+        let category = data.katalogs[selectedCategory];
+        if (category.apakškategorijas && Array.isArray(category.apakškategorijas)) {
             category.apakškategorijas.forEach(subcategory => {
                 subcategory.produkti.forEach(product => {
                     createProductCard(product, productList);
                 });
             });
-        });
-    } else if (selectedCategory !== "" && selectedSubcategory === "") {
-        // Display all products from the selected category
-        let category = data.katalogs[selectedCategory];
-        category.apakškategorijas.forEach(subcategory => {
-            subcategory.produkti.forEach(product => {
+        } else if (category.produkti && Array.isArray(category.produkti)) {
+            // If the selected category has no subcategories but has products
+            category.produkti.forEach(product => {
                 createProductCard(product, productList);
             });
-        });
+        }
     } else if (selectedCategory !== "" && selectedSubcategory !== "") {
         // Display products from the selected subcategory
-        let products = data.katalogs[selectedCategory].apakškategorijas[selectedSubcategory].produkti;
-        products.forEach(product => {
-            createProductCard(product, productList);
-        });
+        let category = data.katalogs[selectedCategory];
+        if (category.apakškategorijas && Array.isArray(category.apakškategorijas)) {
+            let products = category.apakškategorijas[selectedSubcategory].produkti;
+            products.forEach(product => {
+                createProductCard(product, productList);
+            });
+        }
     }
 }
 
