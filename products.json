@@ -33,7 +33,8 @@
             {
               "bilde": "images/calgonitersoft.jpeg",
               "nosaukums": "Calgonit ER soft",
-              "apraksts": ""
+              "apraksts": "calgonit ER soft ir mazgāšanas līdzekļa koncentrāts uz virsmaktīvo vielu bāzes mitrai tesmeņa tīrīšanai pirms tam uz slaukšanu. calgonit ER soft nodrošina izcilu tīrīšanas efektivitāti, ir bez smaržas un maigs ādai lielā ādas kopšanas līdzekļu satura dēļ.",
+              "priekšrocības": ["Ļoti laba tīrīšana","Augsts glicerīna saturs","Maigs ādai","Ekonomisks lietošanā"]
             }
 
           ]
@@ -80,13 +81,15 @@
             {
               "bilde": "images/calgodip3000.jpeg",
               "nosaukums": "Calgodip 3000",
-              "apraksts": ""
+              "apraksts": "calgodip D 3000 ir jodu saturošs, lietošanai gatavs pupu dezinfekcijas līdzeklis, kas piemērots lietošanai pēc slaukšanas. Produkts aizver pupa kanālu un aizsargā to pret baktēriju invāziju. calgodip D 3000 satur efektīvus ādas kopšanas līdzekļus, kas regulāri lietoti samazina šķelšanos un nodrošina gludu ādu un lielisku tesmeņa stāvokli. calgodip D 3000 pārtrauc dīgļu pārnešanu un nodrošina labu tesmeņa veselību.",
+              "priekšrocības": ["Eiropas mēroga atļauja","Viegli lietojams","Izcila adhēzija"]
               
             },
             {
               "bilde": "images/calgodipgreen.jpg",
               "nosaukums": "Calgodip Green",
-              "apraksts": ""
+              "apraksts": "calgodip Green ir jaunas paaudzes, lietošanai gatavs pupu kopšanas līdzeklis pēc slaukšanas. Produkts aizver svītru kanālu, veido nepilošu barjeras plēvi ap pupu un aizsargā to pret baktēriju invāziju. Calgodip Green satur ādas aizsarglīdzekļus un sabalansētu bioloģiskās pienskābes daudzums. Augstas kvalitātes kopšanas komponenti padara ādu gludu un izturīgu.",
+              "priekšrocības": ["Nodrošina tesmeņa veselību un piena kvalitāti","Aizsargā un rūpējas"]
             }
 
           ]
