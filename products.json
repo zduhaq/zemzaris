@@ -92,12 +92,12 @@
           "kategorija": "Palīglīdzekļi",
           "produkti": [
             {
-              "bilde": "images/izsmidzinatajs.jpeg",
+              "bilde": "images/papiradvieli.jpeg",
               "nosaukums": "Papīra dvieļi rullī",
               "apraksts": "1000 loksnes"
             },
             {
-              "bilde": "",
+              "bilde": "images/izsmidzinatajs.jpeg",
               "nosaukums": "Izsmidzinātājs",
               "apraksts": "Pupu dezinfkecijas trauks ar izsmidzinātāju"
             },
@@ -107,27 +107,27 @@
               "apraksts": "Pupu iemērkšanas trauks ar pretvārstu"
             },
             {
-              "bilde": "",
+              "bilde": "images/dezinfkcijastrauks2.jpeg",
               "nosaukums": "Dezinfekcijas trauks",
               "apraksts": "Pupu iemērkšanas trauks putu veidošanai"
             },
             {
-              "bilde": "",
+              "bilde": "images/salvetes.jpeg",
               "nosaukums": "Salvetes",
               "apraksts": "neaustā auduma pupu kopšanas salvetes, 1.Salvetes izmērs: 34 cm x 37cm, 2.Salvetes izmērs: 27 cm x 29cm."
             },
             {
-              "bilde": "",
+              "bilde": "images/salvetesmasters.jpeg",
               "nosaukums": "Salvetes Masters",
               "apraksts": "Pupu kopšanas salvetes kuras efektīvi notīra piekaltušus netīrumus, izturība lidz 30 C mazgāšanas reizēm, nesaraujas mazgājot pat augstās temperatūrās. Mazgāt 30 C - 90 C temperatūrā"
             },
             {
-              "bilde": "",
+              "bilde": "images/prieksauts.jpeg",
               "nosaukums": "Priekšauts",
               "apraksts": "Izgatavots no augstas kvalitātes sintētiskā materiāla, izturīgs pret skābēm un temperatūras maiņa no +5 0C līdz +70 0C, pieejams zilā krāsā."
             },
             {
-              "bilde": "",
+              "bilde": "images/uzroci.jpeg",
               "nosaukums": "Slaukšanas uzroči",
               "apraksts": "Piemēroti darba apģērba aizsardzībai pret netīrumiem un mitrumu slaukšanas laikā iešūtas gumijas galos, kas nodrošina to nenoslīdēšanu darba laikā, izturīgi pie temperatūras maiņas no +25 0C līdz +70 0C, ūdens necaurlaidīgi, garums 40 cm"
             }
@@ -339,8 +339,45 @@
     },
     {
       "kategorija": "Dzīvnieku identifikācija",
-      "apakškategorijas":[],
       "produkti":[
+        {
+          "bilde": "images/kritinsraidex.jpeg",
+          "nosaukums": "MARĶĒŠANAS KRĪTIŅŠ RAIDEX"
+        },
+        {
+          "bilde": "images/markkrasa.jpeg",
+          "nosaukums": "MARĶĒŠANAS KRĀSA 500 ml"
+        },
+        {
+          "bilde": "images/marklente.jpeg",
+          "nosaukums": "MARĶĒŠANAS LENTE",
+          "apraksts": "Pašlīmējoša (10 gab)"
+        },
+        {
+          "bilde":"images/kaklasiksna1.jpeg",
+          "nosaukums": "MARĶĒŠANAS KAKLA SIKSNA",
+          "apraksts": "ar metāla sprādzi"
+        },
+        {
+          "bilde":"images/kaklasiksna2.jpeg",
+          "nosaukums": "MARĶĒŠANAS KAKLA SIKSNA",
+          "apraksts": "ar metāla sprādzi (savelkama)"
+        },
+        {
+          "bilde": "images/kajusiksna1.jpeg",
+          "nosaukums": "KĀJU PRETIZSLĪDĒŠANAS SIKSNA",
+          "apraksts": "lielopiem regulējama"
+        },
+        {
+          "bilde": "images/kajusiksna2.jpeg",
+          "nosaukums": "KĀJU PRETIZSLĪDĒŠANAS SIKSNA",
+          "apraksts": "lielopiem neregulējama"
+        },
+        {
+          "bilde": "images/kajusiksna3.jpeg",
+          "nosaukums": "KĀJU PRETIZSLĪDĒŠANAS SIKSNA",
+          "apraksts": "lielopiem savelkama, pagarinātakaju"
+        }
 
       ]
     }
