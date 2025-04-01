@@ -1,3 +1,8 @@
+if (window.innerWidth <= 768) {
+    // Force desktop site on mobile
+    window.location.href = window.location.href.replace("m.", "www.");
+}
+
 let data;
 
 document.addEventListener("DOMContentLoaded", async function() {
