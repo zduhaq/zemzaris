@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f8f9fa;
+    background-color: rgb(34,31,32);
 }
 
 .container {
@@ -21,6 +21,9 @@ select, button {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 10px;
     justify-content: center;
+}
+label, h2 {
+    color: white;
 }
 
 .product {
@@ -54,7 +57,7 @@ select, button {
 }
 
 .show-more {
-    background-color: #007bff;
+    background-color: rgb(105,145,60);
     color: white;
     border: none;
     padding: 8px 12px;
@@ -63,5 +66,39 @@ select, button {
 }
 
 .show-more:hover {
-    background-color: #0056b3;
+    background-color: rgb(62,137,77);
+}
+
+.logo {
+    width: 500px;
+    margin: 20px auto;
+}
+
+
+.product:hover {
+    transform: scale(1.025);
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Style for sections */
+.grid-item {
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, rgb(105,145,60), rgb(62,137,77));
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Hover effect */
+.grid-item:hover {
+    transform: translateY(-5px);
+    background: linear-gradient(135deg, rgb(62,137,77),rgb(105,145,60));
 }

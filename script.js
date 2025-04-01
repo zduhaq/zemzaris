@@ -126,7 +126,7 @@ function createProductCard(product, productList) {
                     ${product.sastāvs.map(item => `<li>${item}</li>`).join('')}
                 </ul>
             ` : ""}
-
+            ${product.instrukcija ? `<p><strong>Lietošanas instrukcija:</strong> ${product.instrukcija}</p>` : ""}
             ${product.mazgāšanastemperatūra ? `<p><strong>Mazgāšanas temperatūra:</strong> ${product.mazgāšanastemperatūra}</p>` : ""}
             ${product.iepakojums ? `<p><strong>Iepakojums:</strong> ${product.iepakojums}</p>` : ""}
         </div>

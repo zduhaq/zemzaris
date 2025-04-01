@@ -25,12 +25,6 @@
               "priekšrocības": ["Hlorheksidīns nodrošina aizsardzību pret patogēniem mikroorganismiem, samazina mastīta izveidošanās risku","Lieliska attīroša iedarbība","Efektīvi dezinficē un mīkstina pupu ādu","Neizraisa kairinājumu","pH neitrāls","Stabilas putas"]
             },
             {
-              "bilde": "images/ioklarmulti.jpeg",
-              "nosaukums": "IOKLAR® MULTI",
-              "apraksts": "Divejādas dezinfekcijas līdzeklis govs pupu higiēnai pirms un pēc slaukšanas,lietošanai ar iemērkšanas vai apsmidzināšanas metodi. Ioklar® Multi nav vienkārš dezinfekcijas līdzeklis, bet komplekss uz joda bāzes, kas bagātināts ar ārējo epidermas slāņu aizsargājošām un mitrinošām vielām.",
-              "priekšrocības": ["Joda augstā dezinficējošā iedarbība.","Labi saredzams uz govs pupiem.","Kosmētiskā iedarbība.","100 g šķidruma satur: 0,25 g jodu."]
-            },
-            {
               "bilde": "images/calgonitersoft.jpeg",
               "nosaukums": "Calgonit ER soft",
               "apraksts": "calgonit ER soft ir mazgāšanas līdzekļa koncentrāts uz virsmaktīvo vielu bāzes mitrai tesmeņa tīrīšanai pirms tam uz slaukšanu. calgonit ER soft nodrošina izcilu tīrīšanas efektivitāti, ir bez smaržas un maigs ādai lielā ādas kopšanas līdzekļu satura dēļ.",
@@ -93,6 +87,51 @@
             }
 
           ]
+        },
+        {
+          "kategorija": "Palīglīdzekļi",
+          "produkti": [
+            {
+              "bilde": "images/izsmidzinatajs.jpeg",
+              "nosaukums": "Papīra dvieļi rullī",
+              "apraksts": "1000 loksnes"
+            },
+            {
+              "bilde": "",
+              "nosaukums": "Izsmidzinātājs",
+              "apraksts": "Pupu dezinfkecijas trauks ar izsmidzinātāju"
+            },
+            {
+              "bilde": "images/dezinfekcijastrauks1.jpeg",
+              "nosaukums": "Dezinfekcijas trauks",
+              "apraksts": "Pupu iemērkšanas trauks ar pretvārstu"
+            },
+            {
+              "bilde": "",
+              "nosaukums": "Dezinfekcijas trauks",
+              "apraksts": "Pupu iemērkšanas trauks putu veidošanai"
+            },
+            {
+              "bilde": "",
+              "nosaukums": "Salvetes",
+              "apraksts": "neaustā auduma pupu kopšanas salvetes, 1.Salvetes izmērs: 34 cm x 37cm, 2.Salvetes izmērs: 27 cm x 29cm."
+            },
+            {
+              "bilde": "",
+              "nosaukums": "Salvetes Masters",
+              "apraksts": "Pupu kopšanas salvetes kuras efektīvi notīra piekaltušus netīrumus, izturība lidz 30 C mazgāšanas reizēm, nesaraujas mazgājot pat augstās temperatūrās. Mazgāt 30 C - 90 C temperatūrā"
+            },
+            {
+              "bilde": "",
+              "nosaukums": "Priekšauts",
+              "apraksts": "Izgatavots no augstas kvalitātes sintētiskā materiāla, izturīgs pret skābēm un temperatūras maiņa no +5 0C līdz +70 0C, pieejams zilā krāsā."
+            },
+            {
+              "bilde": "",
+              "nosaukums": "Slaukšanas uzroči",
+              "apraksts": "Piemēroti darba apģērba aizsardzībai pret netīrumiem un mitrumu slaukšanas laikā iešūtas gumijas galos, kas nodrošina to nenoslīdēšanu darba laikā, izturīgi pie temperatūras maiņas no +25 0C līdz +70 0C, ūdens necaurlaidīgi, garums 40 cm"
+            }
+          ]
         }
       ]
     },
@@ -150,6 +189,24 @@
               "iepakojums": "10 l, 200 l, 1000 l"
             }
           ]
+        },
+        {
+          "kategorija": "Starpdezinfekcijas līdzekļi",
+          "produkti": [
+            {
+                "bilde": "images/sterilforte.jpeg",
+                "nosaukums": "Sterilforte",
+                "apraksts": "Koncentrēts dezinfekcijas līdzeklis uz peretiķskābes bāzes.Efektīvs pret visiem mikroorganismu tipiem. Izmanto: cirkulācijas mazgāšanas sistēmās; mērcēšanas vannās; smidzināšanai uz virsmām; kā piedeva skābiem mazgāšanas līdzekļiem. Neputo un viegli noskalojas, darbojas zemās temperatūrās. Sterilforte izmanto arī gala dezinfekcijai, piemīt spēcīgi oksidējošas, labas dezodorējošas un traipus tīrošas īpašības. Pēc lietošanas viegli sadalās nekaitīgos savienojumos.",
+                "dozēšana": "Dozēšana: 0,07 - 2 % (0,7 - 20 ml/1 l ūdens. Piemērots jebkādas cietības ūdenī)",
+                "iepakojums": "20 l, 200 l"
+            },
+            {
+                "bilde": "images/bsperoksi35.jpeg",
+                "nosaukums": "BS Peroksi 35",
+                "apraksts": "Piedeva uz ūdeņraža peroksīda bāzes dezinfekcijas efektivitātes pastiprināšanai. Piedeva gala dezinfekcijai, nav obligāti jānoskalo (ātri sadalās saskaroties ar skābekli). Izmanto ar izsmidzināšanas un iemērkšanas metodi, pupu ķekaru dezinfekcijai starp slaukšanas reizēm.",
+                "iepakojums": "20 l, 200 l"
+            }
+          ]
         }
       ]
     },
@@ -157,7 +214,7 @@
         "kategorija" :"Virsmu mazgāšana un dezinfekcija",
         "apakškategorijas": [
             {
-             "kategorija": "Telpu, dzīvnieku nagu un eju dezinfekcija",
+             "kategorija": "Liellopu noviertņu dezinfekcijas līdzekļi",
              "produkti":[
                 {
                     "bilde": "",
@@ -168,26 +225,9 @@
                 }
              ]
             },
+
             {
-              "kategorija": "Starpdezinfekcijas līdzekļi",
-              "produkti": [
-                {
-                    "bilde": "images/sterilforte.jpeg",
-                    "nosaukums": "Sterilforte",
-                    "apraksts": "Koncentrēts dezinfekcijas līdzeklis uz peretiķskābes bāzes.Efektīvs pret visiem mikroorganismu tipiem. Izmanto: cirkulācijas mazgāšanas sistēmās; mērcēšanas vannās; smidzināšanai uz virsmām; kā piedeva skābiem mazgāšanas līdzekļiem. Neputo un viegli noskalojas, darbojas zemās temperatūrās. Sterilforte izmanto arī gala dezinfekcijai, piemīt spēcīgi oksidējošas, labas dezodorējošas un traipus tīrošas īpašības. Pēc lietošanas viegli sadalās nekaitīgos savienojumos.",
-                    "dozēšana": "Dozēšana: 0,07 - 2 % (0,7 - 20 ml/1 l ūdens. Piemērots jebkādas cietības ūdenī)",
-                    "iepakojums": "20 l, 200 l"
-                },
-                {
-                    "bilde": "images/bsperoksi35.jpeg",
-                    "nosaukums": "BS Peroksi 35",
-                    "apraksts": "Piedeva uz ūdeņraža peroksīda bāzes dezinfekcijas efektivitātes pastiprināšanai. Piedeva gala dezinfekcijai, nav obligāti jānoskalo (ātri sadalās saskaroties ar skābekli). Izmanto ar izsmidzināšanas un iemērkšanas metodi, pupu ķekaru dezinfekcijai starp slaukšanas reizēm.",
-                    "iepakojums": "20 l, 200 l"
-                }
-              ]
-            },
-            {
-            "kategorija":"Slaukšanas un piena dzesēšanas iekārtu un citu virsmu mazgāšana un dezinfekcija",
+            "kategorija":"Virsmu un telpu mazgāšanas līdzekļi",
             "produkti":[
                 {
                     "bilde": "images/bsextrafoam.jpeg",
@@ -216,6 +256,20 @@
                     "apraksts": "Sārmains putojošs līdzeklis vecu netīrumu likvidēšanai.Izmanto ikdienas un periodiskai spēcīgi piesārņotu virsmu mazgāšanai. Efektīvi iekļūst un emulģē stipri piedegušus, karbonizētus un polimerizētus netīrumus. Var mazgāt ar putām, augstspiedienu, manuāli, iegremdējot. Viegli noskalojams.  ",
                     "dozēšana": "1 - 5 % (10 - 50 ml/1 l ūdens)",
                     "iepakojums": "10 l, 200 l"
+                },
+                {
+                  "bilde": "images/bsbasicfloorcleaner.jpeg",
+                  "nosaukums": "BS Basic Floor Cleaner",
+                  "apraksts": "Mazgāšanas līdzeklis mazgāšanai ar rokām, paredzēts grīdu mazgāšanai. Basic FloorCleaner izmantojams lielu virsmu, grīdas, flīžu un citu mazgājamu virsmu tīrīšanai.",
+                  "priekšocības": ["Efektīvi sadala taukus un piekaltušas paliekas","Stabila putošanās saglabā šķīdumu efektīvu ilgstoši."],
+                  "instrukcija": "2 korķīšus (30 – 40 ml) Basic FloorCleaner atšķaidīt ar 10 l ūdens. Grūti tīrāmām virsmām uzliet tīrīšanas līdzekli tieši uz sūkļa vai uz netīras virsmas. Tīrīt ar mitru sūkli."
+                },
+                {
+                  "bilde": "images/bshotline6.jpeg",
+                  "nosaukums": "BS Hotline 6",
+                  "apraksts": "Tualetes tīrīšanas līdzeklis ar spēcīgu iedarbību, kas paredzēts kaļķa aplikuma, traipu un citu netīrumu likvidēšanai. Ļoti efektīvs un ātrdarbīgs līdzeklis uz metansulfonskābes bāzes. Līdzeklim ir patīkama, svaiguma smarža.",
+                  "priekšocības": ["Piemērots ikdienas lietošanai","Efektīvi likvidē traipus un aplikumu no klozetpodiem un pisuāriem","Ērta pudele ar izliešanas uzgali ātrai un ērtai lietošanai","Regulāra lietošana novērš kaļķa aplikuma veidošanos","Piemērots izmantošanai uz glazēta santehnikas aprīkojuma","Krāsainā kodēšana novērš nepareizas lietošanas iespējamību","Saglabājas patīkama smarža."],
+                  "instrukcija": "Lietošanai gatavs produkts. Izmantot aizsargcimdus. Ieliet līdzekli klozetpodā un uz augšējās malas iekšējās sieniņas. Atstāt iedarboties uz 5 minūtēm. Notīrīt klozetpoda iekšpusi un kārtīgi noskalot ar ūdeni."
                 }
                 
 
@@ -268,6 +322,18 @@
 
                     }
                 ]
+            },
+            {
+              "kategorija": "Citi",
+              "produkti":[
+                {
+                  "bilde":"images/tulpefast.jpeg",
+                  "nosaukums":"Tulpe Fast",
+                  "apraksts": "koncentrēts trauku mazgāšanas līdzeklis, kas paredzēts katlu, pannu, trauku, stikla un citu virtuves piederumu mazgāšanai ar rokām. Tulpe Fast – optimāls anjonu VAV maisījums, efektīvi sadala taukus un piekaltušās pārtikas paliekas, kā arī uzlabo skalošanu.",
+                  "priekšrocības": ["Ekonomisks, jo ļoti koncentrēts","Efektīvi sadala taukus un piekaltušās pārtikas paliekas","Stabila putošanās ilgstoši saglabā šķīdumu efektīvu.","Pēc skalošanas nepaliek nekādu pēdu."],
+                  "instrukcija":  "Izmantojamā koncentrācija ir 1 – 2 ml Tulpe Fast uz 1 litru silta ūdens. Mērcēt mazgājamos piederumus un mazgāt ar drānu, suku vai sūkli. Rūpīgi noskalot un ļaut nožūt. Ļoti piesārņotiem traukiem var palielināt koncentrāciju."
+                }
+              ]
             }
         ]
     },
