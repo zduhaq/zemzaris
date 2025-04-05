@@ -161,7 +161,13 @@
               "apraksts": "Sārmains mazgāšanas līdzeklis bez hlora. Sevišķi labi emulģē taukus un eļļu, likvidē olbaltumvielas, paredzēts darbam zemās ūdens temperatūrās. Nesatur fosfātus.",
               "dozēšana": "30 - 75 ml/10 l ūdens. Piemērots jebkādas cietības ūdenī",
               "iepakojums": "20 l, 200 l, 1000 l"
+            },
+            {
+              "bilde": "images/bsfatfree.jpeg",
+              "nosaukums": "BS Fat Free",
+              "apraksts": "Līdzeklis izmantojams iekārtu mazgāšanai, organisko nosēdumu atdalīšanai, piemēram tauku, olbaltumvielu, kūtsmēslu nomazgāšanai no ārējām virsmām, piemēram, lauksmainiecības mašīnām, silēm, grīdām un sienām. Lietojot FAT FREE izmantojiet putu reaktoru kas veidos sārmainas putas vai tīriet ar apsmidzināšanas metodi, izmantojot parasto augstspiediena iekārtu. Koncentrācija pie lietošanas 2% - 5% (100ml - 200ml uz 10 litriem ūdens). Ekspozīciju atkārtot peč vajadzības 15-20 minūtes kamēr virsma ir pilnīgi tīra."
             }
+
           ]
         },
         {
@@ -206,6 +212,7 @@
                 "apraksts": "Piedeva uz ūdeņraža peroksīda bāzes dezinfekcijas efektivitātes pastiprināšanai. Piedeva gala dezinfekcijai, nav obligāti jānoskalo (ātri sadalās saskaroties ar skābekli). Izmanto ar izsmidzināšanas un iemērkšanas metodi, pupu ķekaru dezinfekcijai starp slaukšanas reizēm.",
                 "iepakojums": "20 l, 200 l"
             }
+
           ]
         }
       ]
@@ -222,6 +229,11 @@
                     "apraksts": "Dezinfekcijas līdzeklis ar virucīdu, fungicīdu un baktericīdu iedarbību.Neitrāls koncentrēts dezinfekcijas līdzeklis, paredzēts ļoti plašai izmantošanai. Trīs aktīvo vielu sastāvs. Izmanto dzīvnieku turēšanas un to transportēšanas, pārtikas un lopbarības uzglabāšanas vietu dezinfekcijai. Pētījumos pārbaudīta iedarbība uz Āfrikas cūku mēra ierosinātājiem. Piemērots izmantošanai dezinfekcijas barjerās un vanniņās dzīvnieku nagu dezinfekcijai. Ilgstoša iedarbība.",
                     "dozēšana": "0,25 - 1 % (2,5 - 10 ml/1 l ūdens)",
                     "iepakojums": "20 l, 200 l, 1000 l."
+                },
+                {
+                  "bilde": "images/bsquantril.jpeg",
+                  "nosaukums": "BS Quantril",
+                  "apraksts": "Šķidrs koncentrēts skābi saturošs dezinfekcijas līdzeklis izmantojams ar putu reaktoru dzīvnieku novietņu dezinfekcijai."
                 }
              ]
             },
@@ -270,8 +282,13 @@
                   "apraksts": "Tualetes tīrīšanas līdzeklis ar spēcīgu iedarbību, kas paredzēts kaļķa aplikuma, traipu un citu netīrumu likvidēšanai. Ļoti efektīvs un ātrdarbīgs līdzeklis uz metansulfonskābes bāzes. Līdzeklim ir patīkama, svaiguma smarža.",
                   "priekšocības": ["Piemērots ikdienas lietošanai","Efektīvi likvidē traipus un aplikumu no klozetpodiem un pisuāriem","Ērta pudele ar izliešanas uzgali ātrai un ērtai lietošanai","Regulāra lietošana novērš kaļķa aplikuma veidošanos","Piemērots izmantošanai uz glazēta santehnikas aprīkojuma","Krāsainā kodēšana novērš nepareizas lietošanas iespējamību","Saglabājas patīkama smarža."],
                   "instrukcija": "Lietošanai gatavs produkts. Izmantot aizsargcimdus. Ieliet līdzekli klozetpodā un uz augšējās malas iekšējās sieniņas. Atstāt iedarboties uz 5 minūtēm. Notīrīt klozetpoda iekšpusi un kārtīgi noskalot ar ūdeni."
+                },
+                {
+                  "bilde": "images/klortabs.jpeg",
+                  "nosaukums": "Klortabs",
+                  "apraksts": "Hlora tabletes paredzētas tauku, virsmu un inatrumentu dezinfekcijai. Tabletēm piemīt antibakteriāla, pretsēnīšu un pretvīrusu iedarbiba. Medicīnā izmantot vienu tableti uz 15.00 L ūdens (150 ppm aktīvā hlora) ar 15 mīnūšu ekspozīciju. Piena pārstrādes jomā un lauksaimniecībā: 1 tablete uz 25.00 L ūdens (85 ppm aktīvā hlora) ar 5 minūšu ekspozīciju."
                 }
-                
+                  
 
             ]
             }
@@ -379,6 +396,83 @@
           "apraksts": "lielopiem savelkama, pagarinātakaju"
         }
 
+      ]
+    },
+    {
+      "kategorija": "Papildbarība liellopiem",
+      "produkti":[
+        {
+          "bilde": "images/propilenglikols.jpeg",
+          "nosaukums": "Propilenglikols 200kg; 1000kg",
+          "apraksts": "Barības piedeva slaucamām govīm ketozes profilaksei un atveseļošanās periodam. Uzlabo barības izmantojamību.",
+          "instrukcija": " Pirms atnešanās izdzirdina 50-100 ml govij reizi dienā, pēc atnešanās izdzirdina 100-200 ml govij reizi dienā, 3 - 6 nedēļas."
+        }
+      ]
+    },
+    {
+      "kategorija": "Liellopu kāju un nagu kopšanas līdzekļi un instrumenti",
+      "apakškategorijas":[
+        {
+          "kategorija":"Kāju un nagu kopšanas līdzekļi",
+          "produkti":[
+            {
+              "bilde":"images/hoofpro.jpeg",
+              "nosaukums":"Hoof pro"
+            },
+            {
+              "bilde": "images/podocure1.jpeg",
+              "nosaukums": "Podocure 1"
+            }
+          ]
+        },
+        {
+          "kategorija":"Kāju un nagu kopšanas instrumenti",
+          "produkti":[
+            {
+              "bilde": "images/kokapakavs.jpeg",
+              "nosaukums": "Kokaa pakavs"
+            },
+            {
+              "bilde": "images/saitemasters.jpeg",
+              "nosaukums": "Pašlīmējošas Saites Masters 10cm"
+            },
+            {
+              "bilde": "images/demotec95.jpeg",
+              "nosaukums":"Koka pakvu komplekts Demotec 95"
+            },
+            {
+              "bilde": "images/limebalts.jpeg",
+              "nosaukums":"Līmes sajaucējuzgalis (balts)"
+            },
+            {
+              "bilde": "images/limezals.jpeg",
+              "nosaukums":"Līmes sajaucējuzgalis (zals)"
+            },
+            {
+              "bilde": "images/limespistole.jpeg",
+              "nosaukums": "Divkomponentu līmes pistole"
+            },
+            {
+              "bilde": "images/knaibles.jpeg",
+              "nosaukums": "Kniebjamās knaibles"
+            },
+            {
+              "bilde": "images/disks1.jpeg",
+              "nosaukums": "Disks ar maināmiem asmeņiem DEMOTEC",
+              "apraksts": "Disks ar maināmiem asmeņiem, profesionālai lietošanai"
+            },
+            {
+              "bilde": "images/disks2.jpeg",
+              "nosaukums": "Disks ar maināmiem asmeņiem",
+              "apraksts": "Disks ar 3 maināmiem asmeņiem, profesionālai lietošanai, izmērs: Ø110mm."
+            },
+            {
+              "bilde": "images/asmeni.jpeg",
+              "nosaukums": "Maināmie asmeņi slīpripām",
+              "apraksts": "Asmeņi paredzēti profesionālām ripām, iepakojumā 10 gab."
+            }
+          ]
+        }
       ]
     }
   ]
